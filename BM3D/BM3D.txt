@@ -1,0 +1,1 @@
+K. Dabov, A. Foi, V. Katkovnik, and K. Egiazarian, "Image Denoising by Sparse 3-D Transform-Domain Collaborative Filtering," IEEE Transactions on Image Processing, vol. 16, no. 8, pp. 2080-2095, Aug. 2007.
